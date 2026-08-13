@@ -1,0 +1,29 @@
+# Dataset
+database/
+dataset/
+
+# Virtual Environment
+.venv/
+venv/
+
+# Trained Models
+saved_models/
+*.pth
+*.pt
+
+# Results
+results/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# SHAP / temporary files
+.ipynb_checkpoints/
